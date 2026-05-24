@@ -13,45 +13,68 @@
 - 🏗️ **Architecture & Leadership:** Former CTO & Tech Lead, strong advocate for Clean Architecture, modularity, and mentoring cross-functional engineering teams.
 - 📫 **How to reach me:** You can contact me via [LinkedIn](https://www.linkedin.com/in/carefree95) or Email.
 
-### 🛠️ Languages and Tools
+**🌐 Core & Frameworks:**<br/>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=00C58E)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo" title="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript logo" title="TypeScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo" title="React" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="35" alt="vuejs logo" title="Vue.js" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" alt="nextjs logo" title="Next.js" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo" title="HTML5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo" title="CSS3" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="35" alt="tailwindcss logo" title="Tailwind CSS" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35" alt="bootstrap logo" title="Bootstrap" />
-</div>
+**📱 Mobile & Desktop:**<br/>
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+
+**🗄️ State Management & Data Fetching:**<br/>
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-orange?style=for-the-badge&logo=react&logoColor=white)
+![Tanstack Query](https://img.shields.io/badge/Tanstack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
+![Pinia](https://img.shields.io/badge/Pinia-F6D365?style=for-the-badge&logo=vue.js&logoColor=black)
+
+**🎨 Styling & UI Libraries:**<br/>
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Shadcn/UI](https://img.shields.io/badge/Shadcn/UI-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+**⚡ Real-Time & Forms & Charts:**<br/>
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=react&logoColor=white)
+![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
+![Web Workers](https://img.shields.io/badge/Web_Workers-FF4500?style=for-the-badge&logo=javascript&logoColor=white)
+
+**🔧 Version Control:**<br/>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hassan95eb&label=Profile%20Views&color=bd93f9&style=flat" alt="Profile Views" />
+</p>
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=hassan95eb&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=hassan95eb&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hassan95eb&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=hassan95eb&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hassan95eb&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-profile-trophy.vercel.app/?username=hassan95eb&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="Trophy" />
 </div>
 
-### 📫 Let's Connect
+<br />
 
-<div align="left">
-  <a href="mailto:19h.amini95@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/carefree95" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hassan95eb&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" height="195" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hassan95eb&layout=compact&langs_count=6&theme=dracula&hide_border=true" height="195" alt="Top Languages" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=hassan95eb&theme=dracula&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hassan95eb&bg_color=282a36&color=f8f8f2&line=bd93f9&point=50fa7b&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
