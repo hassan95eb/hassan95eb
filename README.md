@@ -1,19 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f172a,50:312e81,100:7c3aed&text=Hassan%20Amini&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Senior%20Frontend%20Engineer%20%7C%20Technical%20Leader&descAlignY=59&descSize=18&animation=fadeIn" width="100%" alt="Hassan Amini Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:25201C,55:B96B4A,100:BFAF9F&text=Hassan%20Amini&fontColor=F3EAE0&fontSize=48&fontAlignY=38&desc=Senior%20Frontend%20Engineer%20%7C%20Technical%20Leader&descAlignY=59&descSize=18&animation=fadeIn" width="100%" alt="Hassan Amini Header" />
 
 <a href="https://www.linkedin.com/in/carefree95">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-B96B4A?style=for-the-badge&logo=linkedin&logoColor=F3EAE0&labelColor=25201C" alt="LinkedIn" />
 </a>
 <a href="https://github.com/hassan95eb">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-Follow-25201C?style=for-the-badge&logo=github&logoColor=F3EAE0&labelColor=25201C" alt="GitHub" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=hassan95eb&label=Profile%20Views&color=7c3aed&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=hassan95eb&label=Profile%20Views&color=B96B4A&style=for-the-badge" alt="Profile Views" />
 
 <br />
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=850&lines=Senior+Frontend+Engineer+%26+Technical+Leader;React%2C+Vue%2C+Next.js+%26+TypeScript+Specialist;Building+Scalable+and+High-Performance+Applications;Turning+Complex+Systems+into+Smooth+User+Experiences" alt="Typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=900&color=B96B4A&center=true&vCenter=true&width=850&lines=Senior+Frontend+Engineer+%26+Technical+Leader;React%2C+Vue%2C+Next.js+%26+TypeScript+Specialist;Building+Scalable+and+High-Performance+Applications;Turning+Complex+Systems+into+Smooth+User+Experiences" alt="Typing introduction" />
 
 </div>
 
@@ -83,7 +83,6 @@ const hassan = {
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
@@ -132,35 +131,35 @@ const hassan = {
 ### Mobile and Desktop
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,electron&theme=dark" alt="React Native and Electron" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
+  <img src="https://img.shields.io/badge/React_Native-B96B4A?style=for-the-badge&logo=react&logoColor=F3EAE0&labelColor=25201C" alt="React Native" />
+  <img src="https://img.shields.io/badge/Expo-25201C?style=for-the-badge&logo=expo&logoColor=F3EAE0&labelColor=25201C" alt="Expo" />
+  <img src="https://img.shields.io/badge/Electron-BFAF9F?style=for-the-badge&logo=electron&logoColor=25201C&labelColor=25201C" alt="Electron" />
 </p>
 
 ### State Management and Data Fetching
 
 <p>
-  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit" />
-  <img src="https://img.shields.io/badge/Zustand-433E38?style=for-the-badge&logo=react&logoColor=white" alt="Zustand" />
-  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack Query" />
-  <img src="https://img.shields.io/badge/Pinia-FFD859?style=for-the-badge&logo=vue.js&logoColor=000000" alt="Pinia" />
+  <img src="https://img.shields.io/badge/Redux_Toolkit-B96B4A?style=for-the-badge&logo=redux&logoColor=F3EAE0&labelColor=25201C" alt="Redux Toolkit" />
+  <img src="https://img.shields.io/badge/Zustand-25201C?style=for-the-badge&logo=react&logoColor=F3EAE0&labelColor=25201C" alt="Zustand" />
+  <img src="https://img.shields.io/badge/TanStack_Query-BFAF9F?style=for-the-badge&logo=reactquery&logoColor=25201C&labelColor=25201C" alt="TanStack Query" />
+  <img src="https://img.shields.io/badge/Pinia-B96B4A?style=for-the-badge&logo=vue.js&logoColor=F3EAE0&labelColor=25201C" alt="Pinia" />
 </p>
 
 ### Styling and UI Engineering
 
 <p>
   <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass,materialui&theme=dark" alt="Tailwind CSS, Bootstrap, Sass and Material UI" />
-  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
+  <img src="https://img.shields.io/badge/shadcn%2Fui-25201C?style=for-the-badge&logo=shadcnui&logoColor=F3EAE0&labelColor=25201C" alt="shadcn/ui" />
 </p>
 
 ### Forms, Maps, Charts and Real-Time Systems
 
 <p>
-  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.IO" />
-  <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" alt="React Hook Form" />
-  <img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3dotjs&logoColor=white" alt="D3.js" />
-  <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white" alt="Leaflet" />
-  <img src="https://img.shields.io/badge/Web_Workers-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="Web Workers" />
+  <img src="https://img.shields.io/badge/Socket.IO-25201C?style=for-the-badge&logo=socketdotio&logoColor=F3EAE0&labelColor=25201C" alt="Socket.IO" />
+  <img src="https://img.shields.io/badge/React_Hook_Form-B96B4A?style=for-the-badge&logo=reacthookform&logoColor=F3EAE0&labelColor=25201C" alt="React Hook Form" />
+  <img src="https://img.shields.io/badge/D3.js-BFAF9F?style=for-the-badge&logo=d3dotjs&logoColor=25201C&labelColor=25201C" alt="D3.js" />
+  <img src="https://img.shields.io/badge/Leaflet-B96B4A?style=for-the-badge&logo=leaflet&logoColor=F3EAE0&labelColor=25201C" alt="Leaflet" />
+  <img src="https://img.shields.io/badge/Web_Workers-F3EAE0?style=for-the-badge&logo=javascript&logoColor=25201C&labelColor=25201C" alt="Web Workers" />
 </p>
 
 ### Engineering Tools
@@ -196,26 +195,45 @@ I care deeply about:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=hassan95eb&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" width="100%" alt="GitHub Trophy" />
+<img src="https://github-profile-trophy.vercel.app/?username=hassan95eb&theme=gruvbox&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" width="100%" alt="GitHub Trophy" />
 
 <br />
 <br />
 
-<img height="190" src="https://github-readme-stats.vercel.app/api?username=hassan95eb&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Hassan's GitHub Stats" />
-
-<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassan95eb&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-
-<br />
-<br />
-
-<img src="https://streak-stats.demolab.com?user=hassan95eb&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Streak" />
+<img height="190" src="https://github-readme-stats.vercel.app/api?username=hassan95eb&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&bg_color=25201C&title_color=B96B4A&text_color=BFAF9F&icon_color=B96B4A&ring_color=B96B4A" alt="Hassan's GitHub Stats" />
+<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassan95eb&layout=compact&langs_count=8&hide_border=true&bg_color=25201C&title_color=B96B4A&text_color=BFAF9F" alt="Most Used Languages" />
 
 <br />
 <br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hassan95eb&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&area_color=7c3aed&hide_border=true&radius=8" width="100%" alt="GitHub Activity Graph" />
+<img src="https://streak-stats.demolab.com?user=hassan95eb&hide_border=true&border_radius=8&background=25201C&ring=B96B4A&fire=B96B4A&currStreakNum=F3EAE0&currStreakLabel=B96B4A&sideNums=BFAF9F&sideLabels=BFAF9F&dates=BFAF9F&stroke=B96B4A" alt="GitHub Streak" />
+
+<br />
+<br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hassan95eb&bg_color=25201C&color=F3EAE0&title_color=B96B4A&line=B96B4A&point=F3EAE0&area=true&area_color=B96B4A&hide_border=true&radius=8" width="100%" alt="GitHub Activity Graph" />
 
 </div>
+
+---
+
+## 🎨 Brand Palette
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/F3EAE0-F3EAE0?style=for-the-badge&labelColor=F3EAE0" alt="F3EAE0" />
+<img src="https://img.shields.io/badge/B96B4A-B96B4A?style=for-the-badge&labelColor=B96B4A" alt="B96B4A" />
+<img src="https://img.shields.io/badge/BFAF9F-BFAF9F?style=for-the-badge&labelColor=BFAF9F" alt="BFAF9F" />
+<img src="https://img.shields.io/badge/25201C-25201C?style=for-the-badge&labelColor=25201C" alt="25201C" />
+
+</div>
+
+| Token | Hex | Role |
+| --- | --- | --- |
+| Sand | `#F3EAE0` | Background, primary text on dark |
+| Clay | `#B96B4A` | Primary accent, links, highlights |
+| Stone | `#BFAF9F` | Secondary text, muted surfaces |
+| Espresso | `#25201C` | Base dark, headers, contrast |
 
 ---
 
@@ -235,7 +253,7 @@ I am interested in conversations and opportunities involving:
 <div align="center">
 
 <a href="https://www.linkedin.com/in/carefree95">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-B96B4A?style=for-the-badge&logo=linkedin&logoColor=F3EAE0&labelColor=25201C" alt="Connect on LinkedIn" />
 </a>
 
 <br />
@@ -245,6 +263,6 @@ I am interested in conversations and opportunities involving:
 
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f172a,50:312e81,100:7c3aed&section=footer" width="100%" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:BFAF9F,45:B96B4A,100:25201C&section=footer" width="100%" alt="Footer" />
 
 </div>
