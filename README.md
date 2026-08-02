@@ -17,7 +17,7 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&height=20&color=0:25201C,55:B96B4A,100:BFAF9F" width="100%" alt="" />
 
 ## 👋 About Me
 
@@ -40,6 +40,10 @@ const hassan = {
 };
 ```
 
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=2600&pause=900&color=BFAF9F&center=true&vCenter=true&width=650&lines=scalable+%C2%B7+performant+%C2%B7+accessible+%C2%B7+maintainable" alt="values" />
+</p>
+
 ### Selected Highlights
 
 * Rendered and managed interfaces containing **2,000,000+ data points**
@@ -50,9 +54,13 @@ const hassan = {
 * Designed modular systems using **Clean Architecture** and maintainable frontend patterns
 * Mentored engineers and collaborated with product, design, and backend teams
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&height=20&color=0:25201C,55:B96B4A,100:BFAF9F" width="100%" alt="" />
 
 ## 🎯 What I Focus On
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=15&duration=2400&pause=900&color=BFAF9F&center=true&vCenter=true&width=650&lines=performance+%C2%B7+architecture+%C2%B7+real-time+%C2%B7+leadership" alt="focus areas" />
+</p>
 
 <table>
 <tr>
@@ -112,9 +120,13 @@ const hassan = {
 </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&height=20&color=0:25201C,55:B96B4A,100:BFAF9F" width="100%" alt="" />
 
 ## 🧰 Technology Stack
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=15&duration=2600&pause=900&color=BFAF9F&center=true&vCenter=true&width=650&lines=always+shipping+%C2%B7+always+learning" alt="stack tagline" />
+</p>
 
 ### Languages and Web Fundamentals
 
@@ -168,7 +180,7 @@ const hassan = {
   <img src="https://skillicons.dev/icons?i=git,github,vite,webpack,vscode&theme=dark" alt="Git, GitHub, Vite, Webpack and VS Code" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&height=20&color=0:25201C,55:B96B4A,100:BFAF9F" width="100%" alt="" />
 
 ## 🧠 Engineering Principles
 
@@ -178,6 +190,10 @@ Architecture should reduce future complexity.
 Good abstractions make teams faster.
 User experience and engineering quality should reinforce each other.
 ```
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=2400&pause=1200&color=B96B4A&center=true&vCenter=true&width=750&lines=Performance+is+a+product+feature.;Architecture+should+reduce+future+complexity.;Good+abstractions+make+teams+faster.;UX+and+engineering+quality+reinforce+each+other." alt="principles" />
+</p>
 
 I care deeply about:
 
@@ -189,7 +205,7 @@ I care deeply about:
 * Developer experience and maintainable codebases
 * Technical decisions aligned with business goals
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&height=20&color=0:25201C,55:B96B4A,100:BFAF9F" width="100%" alt="" />
 
 ## 📊 GitHub Analytics
 
@@ -215,27 +231,7 @@ I care deeply about:
 
 </div>
 
----
-
-## 🎨 Brand Palette
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/F3EAE0-F3EAE0?style=for-the-badge&labelColor=F3EAE0" alt="F3EAE0" />
-<img src="https://img.shields.io/badge/B96B4A-B96B4A?style=for-the-badge&labelColor=B96B4A" alt="B96B4A" />
-<img src="https://img.shields.io/badge/BFAF9F-BFAF9F?style=for-the-badge&labelColor=BFAF9F" alt="BFAF9F" />
-<img src="https://img.shields.io/badge/25201C-25201C?style=for-the-badge&labelColor=25201C" alt="25201C" />
-
-</div>
-
-| Token | Hex | Role |
-| --- | --- | --- |
-| Sand | `#F3EAE0` | Background, primary text on dark |
-| Clay | `#B96B4A` | Primary accent, links, highlights |
-| Stone | `#BFAF9F` | Secondary text, muted surfaces |
-| Espresso | `#25201C` | Base dark, headers, contrast |
-
----
+<img src="https://capsule-render.vercel.app/api?type=waving&height=20&color=0:25201C,55:B96B4A,100:BFAF9F" width="100%" alt="" />
 
 ## 🤝 Let's Connect
 
@@ -259,7 +255,7 @@ I am interested in conversations and opportunities involving:
 <br />
 <br />
 
-**Building fast, scalable products with thoughtful architecture and exceptional user experiences.**
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=3400&pause=1400&color=F3EAE0&center=true&vCenter=true&width=780&lines=Building+fast%2C+scalable+products+with+thoughtful+architecture+and+exceptional+user+experiences." alt="closing" />
 
 <br />
 
