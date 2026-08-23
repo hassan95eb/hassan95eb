@@ -5,7 +5,7 @@
 <a href="https://www.hassanaminidev.ir/en">
   <img src="https://img.shields.io/badge/Website-hassanaminidev.ir-B96B4A?style=for-the-badge&logo=vercel&logoColor=F3EAE0&labelColor=25201C" alt="Website" />
 </a>
-<a href="www.linkedin.com/in/hassanaminidev">
+<a href="https://www.linkedin.com/in/hassanaminidev">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-B96B4A?style=for-the-badge&logo=linkedin&logoColor=F3EAE0&labelColor=25201C" alt="LinkedIn" />
 </a>
 <a href="https://github.com/hassan95eb">
